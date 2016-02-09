@@ -1,0 +1,12 @@
+C:\myprojects\homecinema\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll.config
+C:\myprojects\homecinema\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll
+C:\myprojects\homecinema\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.pdb
+C:\myprojects\homecinema\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.dll
+C:\myprojects\homecinema\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\myprojects\homecinema\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Entities.dll
+C:\myprojects\homecinema\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Entities.pdb
+C:\myprojects\homecinema\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.xml
+C:\myprojects\homecinema\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\myprojects\homecinema\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.csprojResolveAssemblyReference.cache
+C:\myprojects\homecinema\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.dll
+C:\myprojects\homecinema\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.pdb
