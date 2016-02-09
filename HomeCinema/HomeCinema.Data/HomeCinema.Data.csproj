@@ -50,6 +50,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Configurations\EntityBaseConfiguration.cs" />
+    <Compile Include="Configurations\GenreConfiguration.cs" />
+    <Compile Include="Configurations\MovieConfiguration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
