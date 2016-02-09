@@ -9,10 +9,10 @@ namespace HomeCinema.Entities
         {
             Movies = new List<Movie>();
         }
-        public int ID { get; set; }
+        public int Id { get; set; }
 
         public string Name { get; set; }
 
-        public vitual ICollection<Movie> Movies { get; set; }
+        public virtual ICollection<Movie> Movies { get; set; }
     }
 }
